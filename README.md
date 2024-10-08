@@ -1,5 +1,7 @@
-## Hi there 👋
+## Passionate Software Developer
 
+I'm driven by a relentless curiosity and a commitment to innovation. 
+Embracing new challenges and continuously expanding my skill set is what keeps me passionate about what I do.
 <!--
 **MateusVeloso/mateusveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
