@@ -1,7 +1,12 @@
-## Passionate Software Developer
+## Engenheiro de Software & Tech Lead
 
-I'm driven by a relentless curiosity and a commitment to innovation. 
-Embracing new challenges and continuously expanding my skill set is what keeps me passionate about what I do.
+`Código que resolve problemas, liderança que inspira, e IA no sangue.`
 
+Apaixonado por desafios complexos e tecnologias disruptivas, vivo no cruzamento entre desenvolvimento de software e inteligência artificial. Como Tech Lead, não só entrego sistemas escaláveis, mas também ajudo times a crescer com autonomia e boas práticas.
 
-[![Skills](https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,git,go,php,java)](https://skillicons.dev)
+No meu dia a dia:
+- Arquitetura que não quebra (e se quebrar, eu conserto)
+- IA generativa e LLMs como aliados, não só modinha
+- Cultura técnica > burocracia
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,git,go,cloudflare,bash,py,react,nodejs,postgres,redis)](https://skillicons.dev)
