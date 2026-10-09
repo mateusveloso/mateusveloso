@@ -25,7 +25,7 @@ the graph is the unit, the model is a node.*
 ## Escrevo sobre
 
 Arquitetura de decisão em sistemas com modelos de linguagem, confiabilidade de plataforma e Go.
-Artigo mais recente: *Cada decisão na camada mais barata que consegue tomá-la* [link quando publicado].
+Artigo mais recente: [*Cada decisão na camada mais barata que consegue tomá-la*](https://www.linkedin.com/pulse/cada-decis%25C3%25A3o-na-camada-mais-barata-que-consegue-tom%25C3%25A1-la-mateus-veloso-1ygof).
 
 ## Contato
 
