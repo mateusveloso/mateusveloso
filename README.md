@@ -1,12 +1,34 @@
-## Engenheiro de Software & Tech Lead  
-`Código que resolve problemas, liderança que inspira, e IA no sangue.`  
+# Mateus Veloso
 
-**Building the future where software meets AI**  
-Apaixonado por desafios complexos e tecnologias disruptivas, vivo no cruzamento entre desenvolvimento de software e inteligência artificial. Como Tech Lead, não só projeto sistemas escaláveis, mas **capacito times** com autonomia e boas práticas.  
+**Staff Engineer na Lastro.** Go, plataforma e confiabilidade, e pipelines de IA tratados como
+engenharia: o grafo é a unidade, o modelo é um nó.
 
-**No meu DNA:**  
-- ⚡ **Arquitetura antifrágil** – se quebrar, eu conserto (e ainda documento o *post-mortem*)  
-- 🤖 **IA além do hype** – integro LLMs/GenAI em soluções reais, não só POCs  
-- 🚀 **Cultura técnica > burocracia** – liderança hands-on com PRs mergulhados  
+*Staff Engineer at Lastro. Go, platform and reliability, and AI pipelines treated as engineering:
+the graph is the unit, the model is a node.*
 
-[![Skills](https://skillicons.dev/icons?i=aws,docker,git,go,cloudflare,bash,py,react,nodejs,postgres,redis,fastapi)](https://skillicons.dev)
+## O que faço
+
+- **Plataforma**: bibliotecas padrão para os serviços (mensageria sobre NATS, HTTP de saída),
+  infraestrutura como código, Kubernetes.
+- **Confiabilidade**: alertas como código, postmortems e RCAs com mecanismo provado, métricas
+  fechadas antes de qualquer anúncio.
+- **IA com disciplina**: limites, rotas e loops em código; modelos só onde código não decide;
+  custo por decisão medido, não estimado.
+
+## Projetos abertos
+
+- [graphplay](https://github.com/mateusveloso/graphplay): um grafo joga uma aventura de texto e
+  cada jogada diz quem decidiu. Código, modelo de decisão, modelo pequeno, modelo grande, humano:
+  cada decisão na camada mais barata que consegue tomá-la. Go, runtime próprio de ~550 linhas,
+  baselines medidos.
+
+## Escrevo sobre
+
+Arquitetura de decisão em sistemas com modelos de linguagem, confiabilidade de plataforma e Go.
+Artigo mais recente: *Cada decisão na camada mais barata que consegue tomá-la* [link quando publicado].
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mvelosodev/) · [GitHub](https://github.com/mateusveloso)
+
+[![Stack](https://skillicons.dev/icons?i=go,aws,kubernetes,docker,postgres,redis,cloudflare,bash,py,react,nodejs)](https://skillicons.dev)
